@@ -1,0 +1,1 @@
+{"learning_rate": 0.001, "batch_size": 8, "dropout": 0.1, "activation": "relu", "regularization": 0.001, "layer_1": 16, "layer_2": 16, "gcn": 5}

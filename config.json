@@ -1,0 +1,8 @@
+{
+  "cuda_number": 0,
+  "model": "GVM",
+  "normalize_adj": false,
+  "corr_values": false,
+  "trials": 1,
+  "learnt_alpha": false
+}

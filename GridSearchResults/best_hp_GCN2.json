@@ -1,0 +1,1 @@
+{"learning_rate": 0.001, "batch_size": 16, "dropout": 0.1, "activation": "tanh", "regularization": 1e-06, "layer_1": 16, "layer_2": 16, "gcn": 5, "gcn2": 5}
